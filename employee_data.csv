@@ -1,0 +1,16 @@
+﻿employee_id,name,department,salary,satisfaction,years_experience,hire_date,performance_rating
+101,Alice Johnson,HR,72000,5,3,2021-03-15,4.5
+102,Bob Smith,Engineering,95000,3,5,2020-06-01,4.2
+103,Carol Davis,Marketing,68000,4,2,2022-01-10,4
+104,David Wilson,Engineering,88000,2,4,2019-11-20,3.8
+105,Emma Brown,HR,70000,5,1,2023-02-28,4.3
+106,Frank Miller,Sales,65000,4,6,2018-05-12,4.1
+107,Grace Lee,Marketing,71000,3,3,2021-08-22,3.9
+108,Henry Taylor,Sales,67000,5,2,2022-11-05,4.6
+109,Isabel Garcia,Engineering,92000,2,3,2021-01-30,3.7
+110,Jack Anderson,HR,73000,4,4,2020-09-14,4.4
+111,Kelly Martinez,Sales,69000,5,3,2021-06-18,4.5
+112,Leo Thompson,Marketing,66000,3,1,2023-03-25,3.8
+113,Maria Rodriguez,Engineering,97000,3,6,2018-12-10,4.3
+114,Nathan White,Sales,68000,4,5,2019-07-22,4.2
+115,Olivia Harris,HR,71000,5,2,2022-04-08,4.4
