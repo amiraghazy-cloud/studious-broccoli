@@ -1,9 +1,7 @@
-markdown
-
 # Employee Satisfaction Analysis
 
 ## Project Overview
-A comprehensive data analysis project examining employee satisfaction
+A comprehensive data analysis project examining employee satisfaction patterns and trends.
 
 ## Objectives
 - Analyze satisfaction trends across departments
@@ -31,26 +29,32 @@ employee-satisfaction-analysis/
 │   └── employee_data.csv
 ├── visualizations/
 │   └── satisfaction_dashboard.png
-├── analysis.py
+├── employee_satisfaction_analysis.py
 ├── README.md
 └── requirements.txt
 ```
 
-# How to Run
-1.	Clone this repository:
-``` bash
-    git clone https://github.com/yourusername/employee-satisfaction-analysis.git
-    cd employee-satisfaction-analysis
+## How to Run
 
-2. Install dependencies:
+1. **Clone this repository:**
 ```bash
-   pip install - r requirements.txt
+git clone https://github.com/yourusername/employee-satisfaction-analysis.git
+cd employee-satisfaction-analysis
 ```
 
-3. Run the analysis:
+2. **Install dependencies:**
 ```bash
-   python analysis.py
+pip install -r requirements.txt
 ```
+
+3. **Run the analysis:**
+```bash
+python employee_satisfaction_analysis.py
+```
+
+4. **View results:**
+- Check console output for detailed statistics
+- Find visualization in `visualizations/satisfaction_dashboard.png`
 
 ## Business Recommendations
 
@@ -65,28 +69,30 @@ employee-satisfaction-analysis/
 - Invest in management training for department leaders
 
 ## Sample Visualizations
+
 ![Satisfaction Dashboard](visualizations/satisfaction_dashboard.png)
 
 ## Insights
-1.	**Department patterns**: Engineering has high pay but low satisfaction, suggesting non-monetary factors drive engagement
-2.	**Performance matters**: High performers show higher satisfaction, indicating recognition effectiveness
-3.	**Tenure effect**: New employees (<1 year) show variable satisfaction, highlighting onboarding importance
+1. **Department patterns**: Engineering has high pay but low satisfaction, suggesting non-monetary factors drive engagement
+2. **Performance matters**: High performers show higher satisfaction, indicating recognition effectiveness
+3. **Tenure effect**: New employees (<1 year) show variable satisfaction, highlighting onboarding importance
 
 ## Author
-Amira Ghazy
-- LinkedIn: 
+**Amira Ghazy**
+- LinkedIn: https://www.linkedin.com/in/amira-ghazy/
 - Email: miraghazy@yahoo.com
-- Portfolio:
+- Portfolio: https://github.com/amiraghazy-cloud/studious-broccoli
 
-##License
+## License
 MIT License - feel free to use this project for learning purposes
 
 ---
+
 *This project demonstrates skills in data analysis, statistical thinking, and business intelligence for HR analytics roles.*
 ```
 
-### Step 4: Create requirements.txt
+## For requirements.txt (separate file):
 ```
-pandas==2.0.3
-matplotlib==3.7.2
-numpy==1.24.3
+pandas
+matplotlib
+numpy
